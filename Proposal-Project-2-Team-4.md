@@ -8,7 +8,7 @@ The objective of this project will be to use unsupervised learning techniques to
 1. [Phase 1 - Cluster the Stocks](#Phase-1)
 1. [Phase 2 - Predict some Prices](#Phase-2)
 1. [Phase 3 - Make some Money](#Phase-3)
-1. [Reach Goals](#Reach-Goals)
+
 
 
 ## **Data**
@@ -20,61 +20,32 @@ We will be using stock data for the S&P 500 starting from as early as 1990 (subj
 * Capital IQ 
 * Bloomberg
 
+## **Phase 1 ** 
 
-## **Phase 1**
+We will use fundamental indicators to find clusters of stocks within the S&P 500. The underlying assumption is that the clusters that form will share some trait which will make analysis more efficient/effective. 
 
-We will use fundamental and technical analysis methods to find clusters of stocks within the S&P 500. The underlying assumption is that the clusters that form will share some trait which will make analysis more efficient/effective. 
+We will use a one day/many period snapshot to run K-means clustering from the `sklearn` library. Below are the indicators we will use:
 
-We will look at the results of using only fundamental analysis, only technical analysis and using both.
+ - P/E ratio
+ - Price to book 
+ - ROE
+ - ROA
+ - Debt to equity ratio (debt to capital)
+ - Net Income Margin
 
-**Fundamental Analysis**
+Tests
+- Beta
 
- Data, as far back as 1990, will be obtained from Capital IQ. We will look at the following list of indicators:
+We will also look into how our clusters compare to common industry indices and build indicies based on 
 
- - P/E Ratio
- - Book Value
-
- >## **>>PLEASE ADD MORE<<**
-
-**Technical Analysis**
-
-We will calculate technical indicators from stock prices dating as far back as 1990. We will then run unsupervised clustering algorithms on our calculated technical indicators. The goal is find stocks that have similar 
-behavior.
-
-We willuse the following indicators:
-
-- Bollinger Boundaries (1-std, 2-std)
-- Simple moving averages (maybe weekly, quarterly, monthly, yearly)
-- Increasing/Decreasing price (1st derivative)
-- Increasing/Decreasing returns (2nd derivative)
-
- >## **>>PLEASE ADD MORE<<**
 
 ## **Phase 2**
 
-Based on the results of the clustering algorithms, we will test several stocks in each cluster to determine which method is best able to predict stock prices in the next month/quarter. 
-
-We will look at the following techniques and perform backtests based on strategy:
-
-- Linear Regression
-- ARIMA 
-- Gradient Boost Regression
-- LSTM
-
- >## **>>PLEASE ADD MORE<<**
-
-Looking at the results, we would like to identify which technical indicators are useful in trading.
+We will build LSTM models for each stock using the `tensorflow` library. We will first conduct hyperparameter tuning using the indices to find the optimal parameters to use on each model. 
 
 ## **Phase 3**
 
-Recommend and backtest trading strategies based on clustering and predictive tests. 
+We will use gradient boosing approach as well as random forest with fundamental and technical data (feature set) in order to predict stocks outperformers and underperformers compared to the indices we had produced using clustering. That way we will build a tradable strategy and display the results using an equity curve. It is our hope to impress the investment committee. :)
 
- >## **>>PLEASE ADD MORE<<**
 
-## Reach Goals
 
-- exploring different cost functions (MAPE)
-
-- building a pipeline for stock data to autogenerate insights
-
- >## **>>PLEASE ADD MORE<<**
