@@ -1,0 +1,506 @@
+﻿Ticker,Industry
+NasdaqGS:AAPL,Technology Hardware Storage and Peripherals
+NasdaqGS:MSFT,Systems Software
+NasdaqGS:GOOG.L,Interactive Media and Services
+NasdaqGS:GOOG,Interactive Media and Services
+NasdaqGS:AMZN,Internet and Direct Marketing Retail
+NasdaqGS:FB,Interactive Media and Services
+NYSE:BRK.B,Multi-Sector Holdings
+NYSE:JPM,Diversified Banks
+NYSE:V,Data Processing and Outsourced Services
+NYSE:JNJ,Pharmaceuticals
+NYSE:WMT,Hypermarkets and Super Centers
+NYSE:PG,Household Products
+NYSE:BAC,Diversified Banks
+NYSE:XOM,Integrated Oil and Gas
+NYSE:MA,Data Processing and Outsourced Services
+NYSE:T,Integrated Telecommunication Services
+NYSE:DIS,Movies and Entertainment
+NYSE:UNH,Managed Health Care
+NYSE:VZ,Integrated Telecommunication Services
+NasdaqGS:INTC,Semiconductors
+NYSE:HD,Home Improvement Retail
+NYSE:KO,Soft Drinks
+NYSE:WFC,Diversified Banks
+NYSE:MRK,Pharmaceuticals
+NYSE:CVX,Integrated Oil and Gas
+NYSE:PFE,Pharmaceuticals
+NasdaqGS:CMCS.A,Cable and Satellite
+NYSE:BA,Aerospace and Defense
+NasdaqGS:PEP,Soft Drinks
+NasdaqGS:CSCO,Communications Equipment
+NYSE:ORCL,Systems Software
+NYSE:C,Diversified Banks
+NYSE:MDT,Health Care Equipment
+NYSE:NKE,Footwear
+NYSE:ABT,Health Care Equipment
+NasdaqGS:ADBE,Application Software
+NYSE:MCD,Restaurants
+NYSE:BMY,Pharmaceuticals
+NYSE:CRM,Application Software
+NasdaqGS:AMGN,Biotechnology
+NasdaqGS:NFLX,Movies and Entertainment
+NasdaqGS:COST,Hypermarkets and Super Centers
+NasdaqGS:NVDA,Semiconductors
+NYSE:PM,Tobacco
+NYSE:ACN,IT Consulting and Other Services
+NYSE:ABBV,Biotechnology
+NYSE:TMO,Life Sciences Tools and Services
+NYSE:UTX,Aerospace and Defense
+NYSE:HON,Industrial Conglomerates
+NasdaqGS:AVGO,Semiconductors
+NasdaqGS:PYPL,Data Processing and Outsourced Services
+NYSE:UNP,Railroads
+NYSE:IBM,IT Consulting and Other Services
+NYSE:LLY,Pharmaceuticals
+NYSE:NEE,Electric Utilities
+NasdaqGS:TXN,Semiconductors
+NYSE:LIN,Industrial Gases
+NYSE:LMT,Aerospace and Defense
+NYSE:DHR,Health Care Equipment
+NasdaqGS:SBUX,Restaurants
+NYSE:UPS,Air Freight and Logistics
+NasdaqGS:CHTR,Cable and Satellite
+NYSE:AXP,Consumer Finance
+NYSE:MMM,Industrial Conglomerates
+NYSE:CVS,Health Care Services
+NYSE:GE,Industrial Conglomerates
+NasdaqGS:QCOM,Semiconductors
+NYSE:MO,Tobacco
+NYSE:AMT,Specialized REITs
+NYSE:USB,Diversified Banks
+NYSE:LOW,Home Improvement Retail
+NYSE:FIS,Data Processing and Outsourced Services
+NasdaqGS:GILD,Biotechnology
+NasdaqGS:BKNG,Internet and Direct Marketing Retail
+NYSE:MS,Investment Banking and Brokerage
+NYSE:GS,Investment Banking and Brokerage
+NYSE:CAT,Construction Machinery and Heavy Trucks
+NasdaqGS:FISV,Data Processing and Outsourced Services
+NasdaqGS:MDLZ,Packaged Foods and Meats
+NYSE:BLK,Asset Management and Custody Banks
+NYSE:SYK,Health Care Equipment
+NYSE:CI,Health Care Services
+NasdaqGS:CME,Financial Exchanges and Data
+NasdaqGS:ADP,Data Processing and Outsourced Services
+NYSE:ANTM,Managed Health Care
+NYSE:TJX,Apparel Retail
+NYSE:EL,Personal Products
+NYSE:BDX,Health Care Equipment
+NYSE:CB,Property and Casualty Insurance
+NYSE:COP,Oil and Gas Exploration and Production
+NasdaqGS:ISRG,Health Care Equipment
+NYSE:PNC,Regional Banks
+NYSE:SPGI,Financial Exchanges and Data
+NasdaqGS:INTU,Application Software
+NYSE:D,Multi-Utilities
+NasdaqGS:TMUS,Wireless Telecommunication Services
+NYSE:DUK,Electric Utilities
+NYSE:SO,Electric Utilities
+NYSE:TGT,General Merchandise Stores
+NYSE:SCHW,Investment Banking and Brokerage
+NYSE:BSX,Health Care Equipment
+NYSE:AGN,Pharmaceuticals
+NYSE:RTN,Aerospace and Defense
+NYSE:CL,Household Products
+NYSE:NOC,Aerospace and Defense
+NYSE:ZTS,Pharmaceuticals
+NYSE:PLD,Industrial REITs
+NasdaqGS:VRTX,Biotechnology
+NYSE:CCI,Specialized REITs
+NYSE:ITW,Industrial Machinery
+NasdaqGS:CSX,Railroads
+NYSE:MMC,Insurance Brokers
+NasdaqGS:BIIB,Biotechnology
+NYSE:ECL,Specialty Chemicals
+NYSE:GPN,Data Processing and Outsourced Services
+NasdaqGS:MU,Semiconductors
+NYSE:GD,Aerospace and Defense
+NYSE:SHW,Specialty Chemicals
+NasdaqGS:WBA,Drug Retail
+NasdaqGS:AMAT,Semiconductor Equipment
+NYSE:ICE,Financial Exchanges and Data
+NYSE:DE,Agricultural and Farm Machinery
+NYSE:NOW,Systems Software
+NYSE:APD,Industrial Gases
+NYSE:SLB,Oil and Gas Equipment and Services
+NYSE:GM,Automobile Manufacturers
+NYSE:PSX,Oil and Gas Refining and Marketing
+NYSE:EW,Health Care Equipment
+NYSE:NSC,Railroads
+NYSE:LVS,Casinos and Gaming
+NYSE:HCA,Health Care Facilities
+NYSE:AON,Insurance Brokers
+NasdaqGS:ILMN,Life Sciences Tools and Services
+NasdaqGS:EQIX,Specialized REITs
+NYSE:WM,Environmental and Facilities Services
+NYSE:COF,Consumer Finance
+NYSE:DD,Specialty Chemicals
+NYSE:KMB,Household Products
+NasdaqGS:MAR,Hotels Resorts and Cruise Lines
+NYSE:HUM,Managed Health Care
+NYSE:BK,Asset Management and Custody Banks
+NYSE:EMR,Electrical Components and Equipment
+NYSE:AEP,Electric Utilities
+NYSE:MET,Life and Health Insurance
+NYSE:SPG,Retail REITs
+NYSE:AIG,Multi-line Insurance
+NYSE:KMI,Oil and Gas Storage and Transportation
+NasdaqGS:AMD,Semiconductors
+NYSE:MCO,Financial Exchanges and Data
+NasdaqGS:EXC,Electric Utilities
+NYSE:EOG,Oil and Gas Exploration and Production
+NasdaqGS:ADI,Semiconductors
+NYSE:PGR,Property and Casualty Insurance
+NYSE:LHX,Aerospace and Defense
+NYSE:BAX,Health Care Equipment
+NasdaqGS:ATVI,Interactive Home Entertainment
+NYSE:SYY,Food Distributors
+NYSE:BBT,Regional Banks
+NasdaqGS:ROST,Apparel Retail
+NYSE:SRE,Multi-Utilities
+NYSE:FDX,Air Freight and Logistics
+NasdaqGS:REGN,Biotechnology
+NYSE:DOW,Commodity Chemicals
+NasdaqGS:ADSK,Application Software
+NYSE:DG,General Merchandise Stores
+NasdaqGS:LRCX,Semiconductor Equipment
+NYSE:MPC,Oil and Gas Refining and Marketing
+NYSE:AFL,Life and Health Insurance
+NYSE:ETN,Electrical Components and Equipment
+NYSE:VLO,Oil and Gas Refining and Marketing
+NasdaqGS:KHC,Packaged Foods and Meats
+NYSE:PSA,Specialized REITs
+NYSE:PRU,Life and Health Insurance
+NYSE:DAL,Airlines
+NYSE:VFC,Apparel Accessories and Luxury Goods
+NYSE:ROP,Industrial Conglomerates
+NYSE:ALL,Property and Casualty Insurance
+NYSE:F,Automobile Manufacturers
+NYSE:STZ,Distillers and Vintners
+NYSE:TRV,Property and Casualty Insurance
+NYSE:OXY,Integrated Oil and Gas
+NasdaqGS:CTSH,IT Consulting and Other Services
+NYSE:WELL,Health Care REITs
+NasdaqGS:ORLY,Automotive Retail
+NYSE:TSN,Packaged Foods and Meats
+NYSE:NEM,Gold
+NasdaqGS:XEL,Electric Utilities
+NYSE:JCI,Building Products
+NasdaqGS:MNST,Soft Drinks
+NYSE:GIS,Packaged Foods and Meats
+NYSE:IR,Industrial Machinery
+NYSE:EQR,Residential REITs
+NYSE:PPG,Specialty Chemicals
+NYSE:HSY,Packaged Foods and Meats
+NYSE:STI,Regional Banks
+NYSE:LYB,Commodity Chemicals
+NYSE:APH,Electronic Components
+NYSE:TEL,Electronic Manufacturing Services
+NYSE:ZBH,Health Care Equipment
+NYSE:TDG,Aerospace and Defense
+NasdaqGS:PAYX,Data Processing and Outsourced Services
+NYSE:HPQ,Technology Hardware Storage and Peripherals
+NYSE:CCL,Hotels Resorts and Cruise Lines
+NasdaqGS:EA,Interactive Home Entertainment
+NYSE:AVB,Residential REITs
+NYSE:YUM,Restaurants
+NYSE:HLT,Hotels Resorts and Cruise Lines
+NYSE:PEG,Multi-Utilities
+NYSE:OKE,Oil and Gas Storage and Transportation
+NYSE:BF.B,Distillers and Vintners
+NYSE:INFO,Research and Consulting Services
+NYSE:LUV,Airlines
+NasdaqGS:TROW,Asset Management and Custody Banks
+NYSE:ED,Multi-Utilities
+NYSE:IQV,Life Sciences Tools and Services
+NasdaqGS:EBAY,Internet and Direct Marketing Retail
+NYSE:RSG,Environmental and Facilities Services
+NYSE:WEC,Multi-Utilities
+NasdaqGS:PCAR,Construction Machinery and Heavy Trucks
+NYSE:STT,Asset Management and Custody Banks
+NYSE:AZO,Automotive Retail
+NYSE:MSI,Communications Equipment
+NYSE:CMI,Construction Machinery and Heavy Trucks
+NYSE:WMB,Oil and Gas Storage and Transportation
+NYSE:FLT,Data Processing and Outsourced Services
+NasdaqGS:SBAC,Specialized REITs
+NasdaqGS:CTAS,Diversified Support Services
+NYSE:DFS,Consumer Finance
+NYSE:ES,Electric Utilities
+NYSE:FE,Electric Utilities
+NYSE:PH,Industrial Machinery
+NasdaqGS:KLAC,Semiconductor Equipment
+NYSE:MCK,Health Care Distributors
+NYSE:EIX,Electric Utilities
+NYSE:RCL,Hotels Resorts and Cruise Lines
+NYSE:A,Life Sciences Tools and Services
+NYSE:CNC,Managed Health Care
+NasdaqGS:ALXN,Biotechnology
+NasdaqGS:WLTW,Insurance Brokers
+NYSE:PPL,Electric Utilities
+NYSE:O,Retail REITs
+NYSE:DLR,Specialized REITs
+NYSE:FTV,Industrial Machinery
+NYSE:ADM,Agricultural Products
+NYSE:SYF,Consumer Finance
+NYSE:HRL,Packaged Foods and Meats
+NYSE:SWK,Industrial Machinery
+NasdaqGS:VRSK,Research and Consulting Services
+NYSE:DTE,Multi-Utilities
+NYSE:APTV,Auto Parts and Equipment
+NasdaqGS:MCHP,Semiconductors
+NYSE:ETR,Electric Utilities
+NYSE:TWTR,Interactive Media and Services
+NasdaqGS:XLNX,Semiconductors
+NasdaqGS:NTRS,Asset Management and Custody Banks
+NYSE:ROK,Electrical Components and Equipment
+NYSE:MKC,Packaged Foods and Meats
+NYSE:CMG,Restaurants
+NYSE:K,Packaged Foods and Meats
+NYSE:MSCI,Financial Exchanges and Data
+NYSE:AME,Electrical Components and Equipment
+NasdaqGS:UAL,Airlines
+NasdaqGS:CERN,Health Care Technology
+NYSE:PXD,Oil and Gas Exploration and Production
+NYSE:AWK,Water Utilities
+NasdaqGS:VRSN,Internet Services and Infrastructure
+NYSE:KR,Food Retail
+NYSE:WY,Specialized REITs
+NasdaqGS:ANSS,Application Software
+NYSE:MTB,Regional Banks
+NYSE:HIG,Multi-line Insurance
+NasdaqGS:DLTR,General Merchandise Stores
+NasdaqGS:FOXA,Broadcasting
+NasdaqGS:FOX,Broadcasting
+NasdaqGS:ALGN,Health Care Supplies
+NYSE:RMD,Health Care Equipment
+NYSE:BBY,Computer and Electronics Retail
+NasdaqGS:IDXX,Health Care Equipment
+NYSE:BXP,Office REITs
+NasdaqGS:FITB,Regional Banks
+NasdaqGS:DISC.A,Broadcasting
+NasdaqGS:DISC.K,Broadcasting
+NYSE:GLW,Electronic Components
+NYSE:VTR,Health Care REITs
+NYSE:AMP,Asset Management and Custody Banks
+NYSE:BLL,Metal and Glass Containers
+NYSE:ESS,Residential REITs
+NasdaqGS:FAST,Trading Companies and Distributors
+NasdaqGS:CPRT,Diversified Support Services
+NYSE:HPE,Technology Hardware Storage and Peripherals
+NasdaqGS:INCY,Biotechnology
+NasdaqGS:SNPS,Application Software
+NYSE:DHI,Homebuilding
+NasdaqGS:CDW,Technology Distributors
+NYSE:HAL,Oil and Gas Equipment and Services
+NYSE:KEY,Regional Banks
+NYSE:KEYS,Electronic Equipment and Instruments
+NYSE:CBRE,Real Estate Services
+NYSE:CLX,Household Products
+NYSE:VMC,Construction Materials
+NYSE:HES,Oil and Gas Exploration and Production
+NYSE:FRC,Regional Banks
+NYSE:CTVA,Fertilizers and Agricultural Chemicals
+NasdaqGS:CDNS,Application Software
+NYSE:ARE,Office REITs
+NYSE:MTD,Life Sciences Tools and Services
+NYSE:IP,Paper Packaging
+NYSE:AEE,Multi-Utilities
+NasdaqGS:GRMN,Consumer Electronics
+NYSE:LEN,Homebuilding
+NYSE:ABC,Health Care Distributors
+NasdaqGS:FTNT,Systems Software
+NYSE:AJG,Insurance Brokers
+NYSE:NUE,Steel
+NYSE:CMS,Multi-Utilities
+NYSE:OMC,Advertising
+NYSE:GWW,Trading Companies and Distributors
+NasdaqGS:SWKS,Semiconductors
+NasdaqGS:NDAQ,Financial Exchanges and Data
+NYSE:CHD,Household Products
+NasdaqGS:CINF,Property and Casualty Insurance
+NYSE:MLM,Construction Materials
+NYSE:TFX,Health Care Equipment
+NYSE:PEAK,Health Care REITs
+NYSE:CFG,Regional Banks
+NYSE:FCX,Copper
+NYSE:EFX,Research and Consulting Services
+NYSE:LH,Health Care Services
+NYSE:MGM,Casinos and Gaming
+NasdaqGS:DISH,Cable and Satellite
+NYSE:AMCR,Paper Packaging
+NYSE:RF,Regional Banks
+NYSE:DOV,Industrial Machinery
+NYSE:WCG,Managed Health Care
+NYSE:CAH,Health Care Distributors
+NYSE:TIF,Specialty Stores
+NYSE:KMX,Automotive Retail
+NasdaqGS:NLOK,Systems Software
+NasdaqGS:HBAN,Regional Banks
+NasdaqGS:EXPE,Internet and Direct Marketing Retail
+NasdaqGS:MXIM,Semiconductors
+NasdaqGS:STX,Technology Hardware Storage and Peripherals
+NYSE:CTL,Alternative Carriers
+NYSE:MAA,Residential REITs
+NYSE:CXO,Oil and Gas Exploration and Production
+NYSE:COO,Health Care Supplies
+NYSE:IFF,Specialty Chemicals
+NYSE:CE,Specialty Chemicals
+NYSE:KSU,Railroads
+NYSE:GPC,Distributors
+NasdaqGS:ULTA,Specialty Stores
+NasdaqGS:VIAC,Broadcasting
+NYSE:L,Property and Casualty Insurance
+NasdaqGS:PFG,Life and Health Insurance
+NYSE:WAB,Construction Machinery and Heavy Trucks
+NYSE:DRI,Restaurants
+NasdaqGS:WDC,Technology Hardware Storage and Peripherals
+NYSE:WAT,Life Sciences Tools and Services
+NYSE:ANET,Communications Equipment
+NYSE:BKR,Oil and Gas Equipment and Services
+NasdaqGS:CTXS,Application Software
+NYSE:CPB,Packaged Foods and Meats
+NYSE:DGX,Health Care Services
+NYSE:EVRG,Electric Utilities
+NYSE:IT,IT Consulting and Other Services
+NasdaqGS:MKTX,Financial Exchanges and Data
+NYSE:BR,Data Processing and Outsourced Services
+NYSE:CAG,Packaged Foods and Meats
+NYSE:UDR,Residential REITs
+NasdaqGS:HOLX,Health Care Equipment
+NasdaqGS:NTAP,Technology Hardware Storage and Peripherals
+NYSE:EXR,Specialized REITs
+NYSE:NVR,Homebuilding
+NasdaqGS:HAS,Leisure Products
+NasdaqGS:AKAM,Internet Services and Infrastructure
+NYSE:XYL,Industrial Machinery
+NYSE:BEN,Asset Management and Custody Banks
+NYSE:ARNC,Aerospace and Defense
+BATS:CBOE,Financial Exchanges and Data
+NasdaqGS:FANG,Oil and Gas Exploration and Production
+NasdaqGS:TTWO,Interactive Home Entertainment
+NasdaqGS:WYNN,Casinos and Gaming
+NYSE:DRE,Industrial REITs
+NasdaqGS:XRAY,Health Care Supplies
+NYSE:WRB,Property and Casualty Insurance
+NYSE:LDOS,IT Consulting and Other Services
+NYSE:MAS,Building Products
+NYSE:HST,Hotel and Resort REITs
+NasdaqGS:LNT,Electric Utilities
+NYSE:FMC,Fertilizers and Agricultural Chemicals
+NYSE:ATO,Gas Utilities
+NYSE:UHS,Health Care Facilities
+NYSE:VAR,Health Care Equipment
+NYSE:CNP,Multi-Utilities
+NYSE:RJF,Investment Banking and Brokerage
+NasdaqGS:EXPD,Air Freight and Logistics
+NYSE:VNO,Office REITs
+NYSE:AES,Independent Power Producers and Energy Traders
+NYSE:IEX,Industrial Machinery
+NasdaqGS:QRVO,Semiconductors
+NYSE:LW,Packaged Foods and Meats
+NasdaqGS:SIVB,Regional Banks
+NYSE:SJM,Packaged Foods and Meats
+NasdaqGS:JBHT,Trucking
+NasdaqGS:AAL,Airlines
+NYSE:URI,Trading Companies and Distributors
+NYSE:NCLH,Hotels Resorts and Cruise Lines
+NasdaqGS:JKHY,Data Processing and Outsourced Services
+NasdaqGS:TSCO,Specialty Stores
+NYSE:LNC,Life and Health Insurance
+NYSE:ALLE,Building Products
+NYSE:JEC,Construction and Engineering
+NYSE:WU,Data Processing and Outsourced Services
+NYSE:ROL,Environmental and Facilities Services
+NYSE:GL,Life and Health Insurance
+NYSE:TAP,Brewers
+NYSE:RE,Reinsurance
+NasdaqGS:LKQ,Distributors
+NYSE:AVY,Paper Packaging
+NYSE:PHM,Homebuilding
+NasdaqGS:REG,Retail REITs
+NYSE:AAP,Automotive Retail
+NYSE:PKG,Paper Packaging
+NYSE:WRK,Paper Packaging
+NYSE:EMN,Diversified Chemicals
+NYSE:PKI,Life Sciences Tools and Services
+NYSE:NBL,Oil and Gas Exploration and Production
+NYSE:HII,Aerospace and Defense
+NYSE:TXT,Aerospace and Defense
+NYSE:CMA,Regional Banks
+NasdaqGS:CHRW,Air Freight and Logistics
+NasdaqGS:ETFC,Investment Banking and Brokerage
+NasdaqGS:HSIC,Health Care Distributors
+NYSE:NI,Multi-Utilities
+NYSE:MRO,Oil and Gas Exploration and Production
+NasdaqGS:MYL,Pharmaceuticals
+NYSE:FRT,Retail REITs
+NYSE:MHK,Home Furnishings
+NYSE:CF,Fertilizers and Agricultural Chemicals
+NYSE:PNW,Electric Utilities
+NYSE:NRG,Independent Power Producers and Energy Traders
+NYSE:DXC,IT Consulting and Other Services
+NYSE:DVA,Health Care Services
+NYSE:IRM,Specialized REITs
+NYSE:WHR,Household Appliances
+NYSE:SNA,Industrial Machinery
+NYSE:NOV,Oil and Gas Equipment and Services
+NYSE:COTY,Personal Products
+NYSE:FBHS,Building Products
+NYSE:BWA,Auto Parts and Equipment
+NYSE:KIM,Retail REITs
+NYSE:DVN,Oil and Gas Exploration and Production
+NYSE:IPG,Advertising
+NasdaqGS:ABMD,Health Care Equipment
+NYSE:FTI,Oil and Gas Equipment and Services
+NasdaqGS:ZION,Regional Banks
+NYSE:ALK,Airlines
+NasdaqGS:FFIV,Communications Equipment
+NYSE:RL,Apparel Accessories and Luxury Goods
+NYSE:UAA,Apparel Accessories and Luxury Goods
+NYSE:UA,Apparel Accessories and Luxury Goods
+NYSE:XRX,Technology Hardware Storage and Peripherals
+NYSE:HFC,Oil and Gas Refining and Marketing
+NasdaqGS:NWL,Housewares and Specialties
+NYSE:JNPR,Communications Equipment
+NYSE:AIZ,Multi-line Insurance
+NYSE:AIV,Residential REITs
+NasdaqGS:NWSA,Publishing
+NasdaqGS:NWS,Publishing
+NYSE:AOS,Building Products
+NYSE:IVZ,Asset Management and Custody Banks
+NasdaqGS:IPGP,Electronic Manufacturing Services
+NYSE:PNR,Industrial Machinery
+NYSE:PVH,Apparel Accessories and Luxury Goods
+NYSE:APA,Oil and Gas Exploration and Production
+NYSE:KSS,Department Stores
+NasdaqGS:PBCT,Regional Banks
+NYSE:MOS,Fertilizers and Agricultural Chemicals
+NasdaqGS:FLIR,Electronic Equipment and Instruments
+NYSE:NLSN,Research and Consulting Services
+NYSE:PRGO,Pharmaceuticals
+NYSE:TPR,Apparel Accessories and Luxury Goods
+NYSE:LEG,Home Furnishings
+NYSE:SLG,Office REITs
+NYSE:ALB,Specialty Chemicals
+NYSE:RHI,Human Resource and Employment Services
+NYSE:COG,Oil and Gas Exploration and Production
+NYSE:FLS,Industrial Machinery
+NYSE:GPS,Apparel Retail
+NYSE:UNM,Life and Health Insurance
+NYSE:SEE,Paper Packaging
+NYSE:JWN,Department Stores
+NYSE:CPRI,Apparel Accessories and Luxury Goods
+NYSE:PWR,Construction and Engineering
+NYSE:HOG,Motorcycle Manufacturers
+NYSE:HBI,Apparel Accessories and Luxury Goods
+NYSE:LB,Apparel Retail
+NYSE:ADS,Data Processing and Outsourced Services
+NYSE:XEC,Oil and Gas Exploration and Production
+NYSE:HRB,Specialized Consumer Services
+NYSE:M,Department Stores
+NYSE:HP,Oil and Gas Drilling
+NYSE:AMG,Asset Management and Custody Banks
+NasdaqGS:TRIP,Interactive Media and Services
+NYSE:MAC,Retail REITs
