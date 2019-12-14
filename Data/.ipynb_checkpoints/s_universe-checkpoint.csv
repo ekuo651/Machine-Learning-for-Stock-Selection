@@ -1,0 +1,506 @@
+SPX 8/7/2018,NAME,GICS_SECTOR_NAME
+ILMN UW Equity,ILLUMINA INC,Health Care
+EIX UN Equity,EDISON INTERNATIONAL,Utilities
+GPS UN Equity,GAP INC/THE,Consumer Discretionary
+ES UN Equity,EVERSOURCE ENERGY,Utilities
+NLOK UW Equity,NORTONLIFELOCK INC,Information Technology
+AET UN Equity,AETNA INC,Health Care
+MCO UN Equity,MOODY'S CORP,Financials
+RMD UN Equity,RESMED INC,Health Care
+LYB UN Equity,LYONDELLBASELL INDU-CL A,Materials
+AXP UN Equity,AMERICAN EXPRESS CO,Financials
+VZ UN Equity,VERIZON COMMUNICATIONS INC,Communication Services
+AVGO UW Equity,BROADCOM INC,Information Technology
+BA UN Equity,BOEING CO/THE,Industrials
+CAT UN Equity,CATERPILLAR INC,Industrials
+JPM UN Equity,JPMORGAN CHASE & CO,Financials
+CVX UN Equity,CHEVRON CORP,Energy
+KO UN Equity,COCA-COLA CO/THE,Consumer Staples
+ABBV UN Equity,ABBVIE INC,Health Care
+DIS UN Equity,WALT DISNEY CO/THE,Communication Services
+EXR UN Equity,EXTRA SPACE STORAGE INC,Real Estate
+FLT UN Equity,FLEETCOR TECHNOLOGIES INC,Information Technology
+XOM UN Equity,EXXON MOBIL CORP,Energy
+PSX UN Equity,PHILLIPS 66,Energy
+GE UN Equity,GENERAL ELECTRIC CO,Industrials
+HPQ UN Equity,HP INC,Information Technology
+HD UN Equity,HOME DEPOT INC,Consumer Discretionary
+IBM UN Equity,INTL BUSINESS MACHINES CORP,Information Technology
+CXO UN Equity,CONCHO RESOURCES INC,Energy
+JNJ UN Equity,JOHNSON & JOHNSON,Health Care
+MCD UN Equity,MCDONALD'S CORP,Consumer Discretionary
+MRK UN Equity,MERCK & CO. INC.,Health Care
+MMM UN Equity,3M CO,Industrials
+AWK UN Equity,AMERICAN WATER WORKS CO INC,Utilities
+BAC UN Equity,BANK OF AMERICA CORP,Financials
+BKR UN Equity,BAKER HUGHES CO,Energy
+BHF UW Equity,BRIGHTHOUSE FINANCIAL INC,Financials
+PFE UN Equity,PFIZER INC,Health Care
+PG UN Equity,PROCTER & GAMBLE CO/THE,Consumer Staples
+T UN Equity,AT&T INC,Communication Services
+TRV UN Equity,TRAVELERS COS INC/THE,Financials
+UTX UN Equity,UNITED TECHNOLOGIES CORP,Industrials
+ADI UW Equity,ANALOG DEVICES INC,Information Technology
+WMT UN Equity,WALMART INC,Consumer Staples
+CSCO UW Equity,CISCO SYSTEMS INC,Information Technology
+INTC UW Equity,INTEL CORP,Information Technology
+GM UN Equity,GENERAL MOTORS CO,Consumer Discretionary
+MSFT UW Equity,MICROSOFT CORP,Information Technology
+DG UN Equity,DOLLAR GENERAL CORP,Consumer Discretionary
+CI UN Equity,CIGNA CORP,Health Care
+KMI UN Equity,KINDER MORGAN INC,Energy
+C UN Equity,CITIGROUP INC,Financials
+AIG UN Equity,AMERICAN INTERNATIONAL GROUP,Financials
+HON UN Equity,HONEYWELL INTERNATIONAL INC,Industrials
+MO UN Equity,ALTRIA GROUP INC,Consumer Staples
+HCA UN Equity,HCA HEALTHCARE INC,Health Care
+UAA UN Equity,UNDER ARMOUR INC-CLASS A,Consumer Discretionary
+IP UN Equity,INTERNATIONAL PAPER CO,Materials
+HPE UN Equity,HEWLETT PACKARD ENTERPRISE,Information Technology
+ABT UN Equity,ABBOTT LABORATORIES,Health Care
+AFL UN Equity,AFLAC INC,Financials
+APD UN Equity,AIR PRODUCTS & CHEMICALS INC,Materials
+RCL UN Equity,ROYAL CARIBBEAN CRUISES LTD,Consumer Discretionary
+AEP UN Equity,AMERICAN ELECTRIC POWER,Utilities
+HES UN Equity,HESS CORP,Energy
+APC UN Equity,ANADARKO PETROLEUM CORP,Energy
+AON UN Equity,AON PLC,Financials
+APA UN Equity,APACHE CORP,Energy
+ADM UN Equity,ARCHER-DANIELS-MIDLAND CO,Consumer Staples
+ADP UW Equity,AUTOMATIC DATA PROCESSING,Information Technology
+VRSK UW Equity,VERISK ANALYTICS INC,Industrials
+AZO UN Equity,AUTOZONE INC,Consumer Discretionary
+AVY UN Equity,AVERY DENNISON CORP,Materials
+MSCI UN Equity,MSCI INC,Financials
+BLL UN Equity,BALL CORP,Materials
+BK UN Equity,BANK OF NEW YORK MELLON CORP,Financials
+BAX UN Equity,BAXTER INTERNATIONAL INC,Health Care
+BDX UN Equity,BECTON DICKINSON AND CO,Health Care
+BRK/B UN Equity,BERKSHIRE HATHAWAY INC-CL B,Financials
+BBY UN Equity,BEST BUY CO INC,Consumer Discretionary
+HRB UN Equity,H&R BLOCK INC,Consumer Discretionary
+BSX UN Equity,BOSTON SCIENTIFIC CORP,Health Care
+BMY UN Equity,BRISTOL-MYERS SQUIBB CO,Health Care
+FBHS UN Equity,FORTUNE BRANDS HOME & SECURI,Industrials
+BF/B UN Equity,BROWN-FORMAN CORP-CLASS B,Consumer Staples
+COG UN Equity,CABOT OIL & GAS CORP,Energy
+AMD UR Equity,ADVANCED MICRO DEVICES,Information Technology
+CPB UN Equity,CAMPBELL SOUP CO,Consumer Staples
+KSU UN Equity,KANSAS CITY SOUTHERN,Industrials
+HLT UN Equity,HILTON WORLDWIDE HOLDINGS IN,Consumer Discretionary
+QRVO UW Equity,QORVO INC,Information Technology
+CCL UN Equity,CARNIVAL CORP,Consumer Discretionary
+CTL UN Equity,CENTURYLINK INC,Communication Services
+UDR UN Equity,UDR INC,Real Estate
+CLX UN Equity,CLOROX COMPANY,Consumer Staples
+CMS UN Equity,CMS ENERGY CORP,Utilities
+CL UN Equity,COLGATE-PALMOLIVE CO,Consumer Staples
+IPGP UW Equity,IPG PHOTONICS CORP,Information Technology
+CMA UN Equity,COMERICA INC,Financials
+CA UW Equity,CA INC,Information Technology
+CAG UN Equity,CONAGRA BRANDS INC,Consumer Staples
+ED UN Equity,CONSOLIDATED EDISON INC,Utilities
+SLG UN Equity,SL GREEN REALTY CORP,Real Estate
+GLW UN Equity,CORNING INC,Information Technology
+CMI UN Equity,CUMMINS INC,Industrials
+DHR UN Equity,DANAHER CORP,Health Care
+TGT UN Equity,TARGET CORP,Consumer Discretionary
+DE UN Equity,DEERE & CO,Industrials
+D UN Equity,DOMINION ENERGY INC,Utilities
+CBOE UW Equity,CBOE GLOBAL MARKETS INC,Financials
+DOV UN Equity,DOVER CORP,Industrials
+DUK UN Equity,DUKE ENERGY CORP,Utilities
+ETN UN Equity,EATON CORP PLC,Industrials
+ECL UN Equity,ECOLAB INC,Materials
+PKI UN Equity,PERKINELMER INC,Health Care
+EMR UN Equity,EMERSON ELECTRIC CO,Industrials
+EOG UN Equity,EOG RESOURCES INC,Energy
+ETR UN Equity,ENTERGY CORP,Utilities
+EFX UN Equity,EQUIFAX INC,Industrials
+IQV UN Equity,IQVIA HOLDINGS INC,Health Care
+EQT UN Equity,EQT CORP,Energy
+XL UN Equity,XL GROUP LTD,Financials
+IT UN Equity,GARTNER INC,Information Technology
+FDX UN Equity,FEDEX CORP,Industrials
+M UN Equity,MACY'S INC,Consumer Discretionary
+FMC UN Equity,FMC CORP,Materials
+F UN Equity,FORD MOTOR CO,Consumer Discretionary
+NEE UN Equity,NEXTERA ENERGY INC,Utilities
+BEN UN Equity,FRANKLIN RESOURCES INC,Financials
+FCX UN Equity,FREEPORT-MCMORAN INC,Materials
+GD UN Equity,GENERAL DYNAMICS CORP,Industrials
+GIS UN Equity,GENERAL MILLS INC,Consumer Staples
+GPC UN Equity,GENUINE PARTS CO,Consumer Discretionary
+GWW UN Equity,WW GRAINGER INC,Industrials
+HAL UN Equity,HALLIBURTON CO,Energy
+HOG UN Equity,HARLEY-DAVIDSON INC,Consumer Discretionary
+LHX UN Equity,L3HARRIS TECHNOLOGIES INC,Industrials
+PEAK UN Equity,HEALTHPEAK PROPERTIES INC,Real Estate
+HP UN Equity,HELMERICH & PAYNE,Energy
+SYF UN Equity,SYNCHRONY FINANCIAL,Financials
+FTV UN Equity,FORTIVE CORP,Industrials
+HSY UN Equity,HERSHEY CO/THE,Consumer Staples
+HRL UN Equity,HORMEL FOODS CORP,Consumer Staples
+AJG UN Equity,ARTHUR J GALLAGHER & CO,Financials
+MDLZ UW Equity,MONDELEZ INTERNATIONAL INC-A,Consumer Staples
+CNP UN Equity,CENTERPOINT ENERGY INC,Utilities
+HUM UN Equity,HUMANA INC,Health Care
+WLTW UW Equity,WILLIS TOWERS WATSON PLC,Financials
+ITW UN Equity,ILLINOIS TOOL WORKS,Industrials
+IR UN Equity,INGERSOLL-RAND PLC,Industrials
+FL UN Equity,FOOT LOCKER INC,Consumer Discretionary
+IPG UN Equity,INTERPUBLIC GROUP OF COS INC,Communication Services
+IFF UN Equity,INTL FLAVORS & FRAGRANCES,Materials
+J UN Equity,JACOBS ENGINEERING GROUP INC,Industrials
+HBI UN Equity,HANESBRANDS INC,Consumer Discretionary
+K UN Equity,KELLOGG CO,Consumer Staples
+PRGO UN Equity,PERRIGO CO PLC,Health Care
+BR UN Equity,BROADRIDGE FINANCIAL SOLUTIO,Information Technology
+KMB UN Equity,KIMBERLY-CLARK CORP,Consumer Staples
+KIM UN Equity,KIMCO REALTY CORP,Real Estate
+ORCL UN Equity,ORACLE CORP,Information Technology
+KSS UN Equity,KOHLS CORP,Consumer Discretionary
+KR UN Equity,KROGER CO,Consumer Staples
+LEG UN Equity,LEGGETT & PLATT INC,Consumer Discretionary
+LEN UN Equity,LENNAR CORP-A,Consumer Discretionary
+JEF UN Equity,JEFFERIES FINANCIAL GROUP IN,Financials
+LLY UN Equity,ELI LILLY & CO,Health Care
+LB UN Equity,L BRANDS INC,Consumer Discretionary
+CHTR UW Equity,CHARTER COMMUNICATIONS INC-A,Communication Services
+LNC UN Equity,LINCOLN NATIONAL CORP,Financials
+L UN Equity,LOEWS CORP,Financials
+LOW UN Equity,LOWE'S COS INC,Consumer Discretionary
+XRX UN Equity,XEROX HOLDINGS CORP,Information Technology
+HST UN Equity,HOST HOTELS & RESORTS INC,Real Estate
+MMC UN Equity,MARSH & MCLENNAN COS,Financials
+MAS UN Equity,MASCO CORP,Industrials
+MAT UW Equity,MATTEL INC,Consumer Discretionary
+SPGI UN Equity,S&P GLOBAL INC,Financials
+MDT UN Equity,MEDTRONIC PLC,Health Care
+CVS UN Equity,CVS HEALTH CORP,Health Care
+DD UN Equity,DUPONT DE NEMOURS INC,Materials
+MU UW Equity,MICRON TECHNOLOGY INC,Information Technology
+MSI UN Equity,MOTOROLA SOLUTIONS INC,Information Technology
+MYL UW Equity,MYLAN NV,Health Care
+LH UN Equity,LABORATORY CRP OF AMER HLDGS,Health Care
+NWL UN Equity,NEWELL BRANDS INC,Consumer Discretionary
+NEM UN Equity,NEWMONT GOLDCORP CORP,Materials
+TFCFA UW Equity,TFCF CORP,Communication Services
+NKE UN Equity,NIKE INC -CL B,Consumer Discretionary
+NI UN Equity,NISOURCE INC,Utilities
+NBL UN Equity,NOBLE ENERGY INC,Energy
+NSC UN Equity,NORFOLK SOUTHERN CORP,Industrials
+PFG UW Equity,PRINCIPAL FINANCIAL GROUP,Financials
+NOC UN Equity,NORTHROP GRUMMAN CORP,Industrials
+WFC UN Equity,WELLS FARGO & CO,Financials
+NUE UN Equity,NUCOR CORP,Materials
+PVH UN Equity,PVH CORP,Consumer Discretionary
+OXY UN Equity,OCCIDENTAL PETROLEUM CORP,Energy
+OMC UN Equity,OMNICOM GROUP,Communication Services
+OKE UN Equity,ONEOK INC,Energy
+RJF UN Equity,RAYMOND JAMES FINANCIAL INC,Financials
+PCG UN Equity,P G & E CORP,Utilities
+PH UN Equity,PARKER HANNIFIN CORP,Industrials
+PPL UN Equity,PPL CORP,Utilities
+EXC UN Equity,EXELON CORP,Utilities
+COP UN Equity,CONOCOPHILLIPS,Energy
+PHM UN Equity,PULTEGROUP INC,Consumer Discretionary
+PNW UN Equity,PINNACLE WEST CAPITAL,Utilities
+PNC UN Equity,PNC FINANCIAL SERVICES GROUP,Financials
+PPG UN Equity,PPG INDUSTRIES INC,Materials
+PX UN Equity,PRAXAIR INC,Materials
+PGR UN Equity,PROGRESSIVE CORP,Financials
+PEG UN Equity,PUBLIC SERVICE ENTERPRISE GP,Utilities
+RTN UN Equity,RAYTHEON COMPANY,Industrials
+RHI UN Equity,ROBERT HALF INTL INC,Industrials
+SCG UN Equity,SCANA CORP,Utilities
+SLB UN Equity,SCHLUMBERGER LTD,Energy
+SCHW UN Equity,SCHWAB (CHARLES) CORP,Financials
+SHW UN Equity,SHERWIN-WILLIAMS CO/THE,Materials
+SJM UN Equity,JM SMUCKER CO/THE,Consumer Staples
+AME UN Equity,AMETEK INC,Industrials
+SNA UN Equity,SNAP-ON INC,Industrials
+SO UN Equity,SOUTHERN CO/THE,Utilities
+TFC UN Equity,TRUIST FINANCIAL CORP,Financials
+LUV UN Equity,SOUTHWEST AIRLINES CO,Industrials
+SWK UN Equity,STANLEY BLACK & DECKER INC,Industrials
+PSA UN Equity,PUBLIC STORAGE,Real Estate
+STI UN Equity,SUNTRUST BANKS INC,Financials
+SYY UN Equity,SYSCO CORP,Consumer Staples
+ANDV UN Equity,ANDEAVOR,Energy
+TXN UW Equity,TEXAS INSTRUMENTS INC,Information Technology
+TXT UN Equity,TEXTRON INC,Industrials
+TMO UN Equity,THERMO FISHER SCIENTIFIC INC,Health Care
+TIF UN Equity,TIFFANY & CO,Consumer Discretionary
+TJX UN Equity,TJX COMPANIES INC,Consumer Discretionary
+GL UN Equity,GLOBE LIFE INC,Financials
+TSS UN Equity,TOTAL SYSTEM SERVICES INC,Information Technology
+ULTA UW Equity,ULTA BEAUTY INC,Consumer Discretionary
+JCI UN Equity,JOHNSON CONTROLS INTERNATION,Industrials
+UNP UN Equity,UNION PACIFIC CORP,Industrials
+UNH UN Equity,UNITEDHEALTH GROUP INC,Health Care
+UNM UN Equity,UNUM GROUP,Financials
+MRO UN Equity,MARATHON OIL CORP,Energy
+VAR UN Equity,VARIAN MEDICAL SYSTEMS INC,Health Care
+VTR UN Equity,VENTAS INC,Real Estate
+VFC UN Equity,VF CORP,Consumer Discretionary
+VNO UN Equity,VORNADO REALTY TRUST,Real Estate
+VMC UN Equity,VULCAN MATERIALS CO,Materials
+WY UN Equity,WEYERHAEUSER CO,Real Estate
+WHR UN Equity,WHIRLPOOL CORP,Consumer Discretionary
+WMB UN Equity,WILLIAMS COS INC,Energy
+WEC UN Equity,WEC ENERGY GROUP INC,Utilities
+ADBE UW Equity,ADOBE INC,Information Technology
+AES UN Equity,AES CORP,Utilities
+AMGN UW Equity,AMGEN INC,Health Care
+AAPL UW Equity,APPLE INC,Information Technology
+ADSK UW Equity,AUTODESK INC,Information Technology
+CTAS UW Equity,CINTAS CORP,Industrials
+CMCSA UW Equity,COMCAST CORP-CLASS A,Communication Services
+TAP UN Equity,MOLSON COORS BREWING CO -B,Consumer Staples
+MAR UW Equity,MARRIOTT INTERNATIONAL -CL A,Consumer Discretionary
+KLAC UW Equity,KLA CORP,Information Technology
+MKC UN Equity,MCCORMICK & CO-NON VTG SHRS,Consumer Staples
+JWN UN Equity,NORDSTROM INC,Consumer Discretionary
+PCAR UW Equity,PACCAR INC,Industrials
+COST UW Equity,COSTCO WHOLESALE CORP,Consumer Staples
+SYK UN Equity,STRYKER CORP,Health Care
+TSN UN Equity,TYSON FOODS INC-CL A,Consumer Staples
+AMAT UW Equity,APPLIED MATERIALS INC,Information Technology
+AAL UW Equity,AMERICAN AIRLINES GROUP INC,Industrials
+CAH UN Equity,CARDINAL HEALTH INC,Health Care
+CELG UW Equity,CELGENE CORP,Health Care
+CERN UW Equity,CERNER CORP,Health Care
+CINF UW Equity,CINCINNATI FINANCIAL CORP,Financials
+DHI UN Equity,DR HORTON INC,Consumer Discretionary
+FLS UN Equity,FLOWSERVE CORP,Industrials
+EA UW Equity,ELECTRONIC ARTS INC,Communication Services
+ESRX UW Equity,EXPRESS SCRIPTS HOLDING CO,Health Care
+EXPD UW Equity,EXPEDITORS INTL WASH INC,Industrials
+FAST UW Equity,FASTENAL CO,Industrials
+XEL UW Equity,XCEL ENERGY INC,Utilities
+MTB UN Equity,M & T BANK CORP,Financials
+FISV UW Equity,FISERV INC,Information Technology
+FITB UW Equity,FIFTH THIRD BANCORP,Financials
+GILD UW Equity,GILEAD SCIENCES INC,Health Care
+HAS UW Equity,HASBRO INC,Consumer Discretionary
+HBAN UW Equity,HUNTINGTON BANCSHARES INC,Financials
+WELL UN Equity,WELLTOWER INC,Real Estate
+BIIB UW Equity,BIOGEN INC,Health Care
+NTRS UW Equity,NORTHERN TRUST CORP,Financials
+PKG UN Equity,PACKAGING CORP OF AMERICA,Materials
+PAYX UW Equity,PAYCHEX INC,Information Technology
+PBCT UW Equity,PEOPLE'S UNITED FINANCIAL,Financials
+QCOM UW Equity,QUALCOMM INC,Information Technology
+ROP UN Equity,ROPER TECHNOLOGIES INC,Industrials
+ROST UW Equity,ROSS STORES INC,Consumer Discretionary
+IDXX UW Equity,IDEXX LABORATORIES INC,Health Care
+SBUX UW Equity,STARBUCKS CORP,Consumer Discretionary
+KEY UN Equity,KEYCORP,Financials
+STT UN Equity,STATE STREET CORP,Financials
+NCLH UN Equity,NORWEGIAN CRUISE LINE HOLDIN,Consumer Discretionary
+AOS UN Equity,SMITH (A.O.) CORP,Industrials
+USB UN Equity,US BANCORP,Financials
+TROW UW Equity,T ROWE PRICE GROUP INC,Financials
+WM UN Equity,WASTE MANAGEMENT INC,Industrials
+VIAC UN Equity,VIACOMCBS INC - CLASS B,Communication Services
+AGN UN Equity,ALLERGAN PLC,Health Care
+STZ UN Equity,CONSTELLATION BRANDS INC-A,Consumer Staples
+XLNX UW Equity,XILINX INC,Information Technology
+XRAY UW Equity,DENTSPLY SIRONA INC,Health Care
+ZION UW Equity,ZIONS BANCORP NA,Financials
+ALK UN Equity,ALASKA AIR GROUP INC,Industrials
+IVZ UN Equity,INVESCO LTD,Financials
+INTU UW Equity,INTUIT INC,Information Technology
+MS UN Equity,MORGAN STANLEY,Financials
+MCHP UW Equity,MICROCHIP TECHNOLOGY INC,Information Technology
+HOLX UW Equity,HOLOGIC INC,Health Care
+CB UN Equity,CHUBB LTD,Financials
+CFG UN Equity,CITIZENS FINANCIAL GROUP,Financials
+ORLY UW Equity,O'REILLY AUTOMOTIVE INC,Consumer Discretionary
+ALL UN Equity,ALLSTATE CORP,Financials
+FLIR UW Equity,FLIR SYSTEMS INC,Information Technology
+EQR UN Equity,EQUITY RESIDENTIAL,Real Estate
+BWA UN Equity,BORGWARNER INC,Consumer Discretionary
+NFX UN Equity,NEWFIELD EXPLORATION CO,Energy
+INCY UW Equity,INCYTE CORP,Health Care
+SPG UN Equity,SIMON PROPERTY GROUP INC,Real Estate
+TWTR UN Equity,TWITTER INC,Communication Services
+EMN UN Equity,EASTMAN CHEMICAL CO,Materials
+AVB UN Equity,AVALONBAY COMMUNITIES INC,Real Estate
+PRU UN Equity,PRUDENTIAL FINANCIAL INC,Financials
+UPS UN Equity,UNITED PARCEL SERVICE-CL B,Industrials
+AIV UN Equity,APARTMENT INVT & MGMT CO -A,Real Estate
+WBA UW Equity,WALGREENS BOOTS ALLIANCE INC,Consumer Staples
+MCK UN Equity,MCKESSON CORP,Health Care
+LMT UN Equity,LOCKHEED MARTIN CORP,Industrials
+ABC UN Equity,AMERISOURCEBERGEN CORP,Health Care
+COF UN Equity,CAPITAL ONE FINANCIAL CORP,Financials
+WAT UN Equity,WATERS CORP,Health Care
+DLTR UW Equity,DOLLAR TREE INC,Consumer Discretionary
+DRI UN Equity,DARDEN RESTAURANTS INC,Consumer Discretionary
+NTAP UW Equity,NETAPP INC,Information Technology
+DXC UN Equity,DXC TECHNOLOGY CO,Information Technology
+CTXS UW Equity,CITRIX SYSTEMS INC,Information Technology
+GT UW Equity,GOODYEAR TIRE & RUBBER CO,Consumer Discretionary
+DVA UN Equity,DAVITA INC,Health Care
+HIG UN Equity,HARTFORD FINANCIAL SVCS GRP,Financials
+IRM UN Equity,IRON MOUNTAIN INC,Real Estate
+EL UN Equity,ESTEE LAUDER COMPANIES-CL A,Consumer Staples
+CDNS UW Equity,CADENCE DESIGN SYS INC,Information Technology
+SRCL UW Equity,STERICYCLE INC,Industrials
+UHS UN Equity,UNIVERSAL HEALTH SERVICES-B,Health Care
+ETFC UW Equity,E*TRADE FINANCIAL CORP,Financials
+SWKS UW Equity,SKYWORKS SOLUTIONS INC,Information Technology
+NOV UN Equity,NATIONAL OILWELL VARCO INC,Energy
+DGX UN Equity,QUEST DIAGNOSTICS INC,Health Care
+ATVI UW Equity,ACTIVISION BLIZZARD INC,Communication Services
+ROK UN Equity,ROCKWELL AUTOMATION INC,Industrials
+KHC UW Equity,KRAFT HEINZ CO/THE,Consumer Staples
+AMT UN Equity,AMERICAN TOWER CORP,Real Estate
+HFC UN Equity,HOLLYFRONTIER CORP,Energy
+REGN UW Equity,REGENERON PHARMACEUTICALS,Health Care
+AMZN UW Equity,AMAZON.COM INC,Consumer Discretionary
+RL UN Equity,RALPH LAUREN CORP,Consumer Discretionary
+BXP UN Equity,BOSTON PROPERTIES INC,Real Estate
+APH UN Equity,AMPHENOL CORP-CL A,Information Technology
+ARNC UN Equity,ARCONIC INC,Industrials
+PXD UN Equity,PIONEER NATURAL RESOURCES CO,Energy
+VLO UN Equity,VALERO ENERGY CORP,Energy
+SNPS UW Equity,SYNOPSYS INC,Information Technology
+LLL UN Equity,L3 TECHNOLOGIES INC,Industrials
+WU UN Equity,WESTERN UNION CO,Information Technology
+CHRW UW Equity,C.H. ROBINSON WORLDWIDE INC,Industrials
+TDG UN Equity,TRANSDIGM GROUP INC,Industrials
+ACN UN Equity,ACCENTURE PLC-CL A,Information Technology
+YUM UN Equity,YUM! BRANDS INC,Consumer Discretionary
+PLD UN Equity,PROLOGIS INC,Real Estate
+FE UN Equity,FIRSTENERGY CORP,Utilities
+VRSN UW Equity,VERISIGN INC,Information Technology
+PWR UN Equity,QUANTA SERVICES INC,Industrials
+HSIC UW Equity,HENRY SCHEIN INC,Health Care
+AEE UN Equity,AMEREN CORPORATION,Utilities
+ANSS UW Equity,ANSYS INC,Information Technology
+NVDA UW Equity,NVIDIA CORP,Information Technology
+SEE UN Equity,SEALED AIR CORP,Materials
+CTSH UW Equity,COGNIZANT TECH SOLUTIONS-A,Information Technology
+SIVB UW Equity,SVB FINANCIAL GROUP,Financials
+ISRG UW Equity,INTUITIVE SURGICAL INC,Health Care
+AMG UN Equity,AFFILIATED MANAGERS GROUP,Financials
+TTWO UW Equity,TAKE-TWO INTERACTIVE SOFTWRE,Communication Services
+RSG UN Equity,REPUBLIC SERVICES INC,Industrials
+EBAY UW Equity,EBAY INC,Consumer Discretionary
+GS UN Equity,GOLDMAN SACHS GROUP INC,Financials
+SBAC UW Equity,SBA COMMUNICATIONS CORP,Real Estate
+SRE UN Equity,SEMPRA ENERGY,Utilities
+BKNG UW Equity,BOOKING HOLDINGS INC,Consumer Discretionary
+FFIV UW Equity,F5 NETWORKS INC,Information Technology
+AKAM UW Equity,AKAMAI TECHNOLOGIES INC,Information Technology
+DVN UN Equity,DEVON ENERGY CORP,Energy
+GOOGL UW Equity,ALPHABET INC-CL A,Communication Services
+RHT UN Equity,RED HAT INC,Information Technology
+ALLE UN Equity,ALLEGION PLC,Industrials
+NFLX UW Equity,NETFLIX INC,Communication Services
+A UN Equity,AGILENT TECHNOLOGIES INC,Health Care
+ANTM UN Equity,ANTHEM INC,Health Care
+CME UW Equity,CME GROUP INC,Financials
+JNPR UN Equity,JUNIPER NETWORKS INC,Information Technology
+BLK UN Equity,BLACKROCK INC,Financials
+DTE UN Equity,DTE ENERGY COMPANY,Utilities
+NDAQ UW Equity,NASDAQ INC,Financials
+PM UN Equity,PHILIP MORRIS INTERNATIONAL,Consumer Staples
+CRM UN Equity,SALESFORCE.COM INC,Information Technology
+HII UN Equity,HUNTINGTON INGALLS INDUSTRIE,Industrials
+MET UN Equity,METLIFE INC,Financials
+UA UN Equity,UNDER ARMOUR INC-CLASS C,Consumer Discretionary
+TPR UN Equity,TAPESTRY INC,Consumer Discretionary
+FLR UN Equity,FLUOR CORP,Industrials
+CSX UW Equity,CSX CORP,Industrials
+EW UN Equity,EDWARDS LIFESCIENCES CORP,Health Care
+AMP UN Equity,AMERIPRISE FINANCIAL INC,Financials
+COL UN Equity,ROCKWELL COLLINS INC,Industrials
+FTI UN Equity,TECHNIPFMC PLC,Energy
+ZBH UN Equity,ZIMMER BIOMET HOLDINGS INC,Health Care
+CBRE UN Equity,CBRE GROUP INC - A,Real Estate
+MA UN Equity,MASTERCARD INC - A,Information Technology
+KMX UN Equity,CARMAX INC,Consumer Discretionary
+ICE UN Equity,INTERCONTINENTAL EXCHANGE IN,Financials
+FIS UN Equity,FIDELITY NATIONAL INFO SERV,Information Technology
+CMG UN Equity,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary
+WYNN UW Equity,WYNN RESORTS LTD,Consumer Discretionary
+AIZ UN Equity,ASSURANT INC,Financials
+NRG UN Equity,NRG ENERGY INC,Utilities
+MNST UW Equity,MONSTER BEVERAGE CORP,Consumer Staples
+RF UN Equity,REGIONS FINANCIAL CORP,Financials
+MOS UN Equity,MOSAIC CO/THE,Materials
+EXPE UW Equity,EXPEDIA GROUP INC,Consumer Discretionary
+EVRG UN Equity,EVERGY INC,Utilities
+DISCA UW Equity,DISCOVERY INC - A,Communication Services
+CF UN Equity,CF INDUSTRIES HOLDINGS INC,Materials
+VIAB UW Equity,VIACOM INC-CLASS B,Communication Services
+GOOG UW Equity,ALPHABET INC-CL C,Communication Services
+TEL UN Equity,TE CONNECTIVITY LTD,Information Technology
+COO UN Equity,COOPER COS INC/THE,Health Care
+DFS UN Equity,DISCOVER FINANCIAL SERVICES,Financials
+TRIP UW Equity,TRIPADVISOR INC,Communication Services
+V UN Equity,VISA INC-CLASS A SHARES,Information Technology
+MAA UN Equity,MID-AMERICA APARTMENT COMM,Real Estate
+XYL UN Equity,XYLEM INC,Industrials
+MPC UN Equity,MARATHON PETROLEUM CORP,Energy
+TSCO UW Equity,TRACTOR SUPPLY COMPANY,Consumer Discretionary
+MTD UN Equity,METTLER-TOLEDO INTERNATIONAL,Health Care
+CPRT UW Equity,COPART INC,Industrials
+ALB UN Equity,ALBEMARLE CORP,Materials
+ESS UN Equity,ESSEX PROPERTY TRUST INC,Real Estate
+GGP UN Equity,GGP INC,Real Estate
+O UN Equity,REALTY INCOME CORP,Real Estate
+STX UW Equity,SEAGATE TECHNOLOGY,Information Technology
+WRK UN Equity,WESTROCK CO,Materials
+INFO UW Equity,IHS MARKIT LTD,Industrials
+WDC UW Equity,WESTERN DIGITAL CORP,Information Technology
+PEP UW Equity,PEPSICO INC,Consumer Staples
+NKTR UW Equity,NEKTAR THERAPEUTICS,Health Care
+CHD UN Equity,CHURCH & DWIGHT CO INC,Consumer Staples
+DRE UN Equity,DUKE REALTY CORP,Real Estate
+FRT UN Equity,FEDERAL REALTY INVS TRUST,Real Estate
+MGM UN Equity,MGM RESORTS INTERNATIONAL,Consumer Discretionary
+TFCF UW Equity,TFCF CORP - B,Communication Services
+LNT UN Equity,ALLIANT ENERGY CORP,Utilities
+JBHT UW Equity,HUNT (JB) TRANSPRT SVCS INC,Industrials
+LRCX UW Equity,LAM RESEARCH CORP,Information Technology
+MHK UN Equity,MOHAWK INDUSTRIES INC,Consumer Discretionary
+PNR UN Equity,PENTAIR PLC,Industrials
+VRTX UW Equity,VERTEX PHARMACEUTICALS INC,Health Care
+FB UW Equity,FACEBOOK INC-CLASS A,Communication Services
+URI UN Equity,UNITED RENTALS INC,Industrials
+ARE UN Equity,ALEXANDRIA REAL ESTATE EQUIT,Real Estate
+ABMD UW Equity,ABIOMED INC,Health Care
+UAL UN Equity,UNITED AIRLINES HOLDINGS INC,Industrials
+DAL UN Equity,DELTA AIR LINES INC,Industrials
+NWS UW Equity,NEWS CORP - CLASS B,Communication Services
+CNC UN Equity,CENTENE CORP,Health Care
+REG UN Equity,REGENCY CENTERS CORP,Real Estate
+MAC UN Equity,MACERICH CO/THE,Real Estate
+MLM UN Equity,MARTIN MARIETTA MATERIALS,Materials
+EVHC UN Equity,ENVISION HEALTHCARE CORP,Health Care
+PYPL UW Equity,PAYPAL HOLDINGS INC,Information Technology
+COTY UN Equity,COTY INC-CL A,Consumer Staples
+DISH UW Equity,DISH NETWORK CORP-A,Communication Services
+ALXN UW Equity,ALEXION PHARMACEUTICALS INC,Health Care
+RE UN Equity,EVEREST RE GROUP LTD,Financials
+NWSA UW Equity,NEWS CORP - CLASS A,Communication Services
+GPN UN Equity,GLOBAL PAYMENTS INC,Information Technology
+CCI UN Equity,CROWN CASTLE INTL CORP,Real Estate
+APTV UN Equity,APTIV PLC,Consumer Discretionary
+AAP UN Equity,ADVANCE AUTO PARTS INC,Consumer Discretionary
+CPRI UN Equity,CAPRI HOLDINGS LTD,Consumer Discretionary
+ALGN UW Equity,ALIGN TECHNOLOGY INC,Health Care
+ADS UN Equity,ALLIANCE DATA SYSTEMS CORP,Information Technology
+LKQ UW Equity,LKQ CORP,Consumer Discretionary
+NLSN UN Equity,NIELSEN HOLDINGS PLC,Industrials
+GRMN UW Equity,GARMIN LTD,Consumer Discretionary
+XEC UN Equity,CIMAREX ENERGY CO,Energy
+ZTS UN Equity,ZOETIS INC,Health Care
+DLR UN Equity,DIGITAL REALTY TRUST INC,Real Estate
+EQIX UW Equity,EQUINIX INC,Real Estate
+DISCK UW Equity,DISCOVERY INC-C,Communication Services
