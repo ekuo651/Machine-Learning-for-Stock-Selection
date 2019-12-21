@@ -70,6 +70,10 @@ After running our predictions we build an equity curve showing top 20 holdings b
 
 ## Discuss the techniques you used to evaluate the model performance.
 
+To evaluate the model performance across various iterations we used Compounded annual growth rate metrics. That way we saw the effects on the PnL directly instead of looking at the accuracy or other ML measures. 
+
+
+
 We selected the top 20 results from the general classification model and calculated returns based on an equation
 
 
