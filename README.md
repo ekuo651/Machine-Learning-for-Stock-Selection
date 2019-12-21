@@ -81,6 +81,7 @@ We selected the top 20 results from the general classification model and calcula
 
 ## Discuss your findings. Was the model sufficient for the predictive task? If not, why not? What inferences or general conclusions can #you draw from your model performance?
 
+Yes it was sufficient for the predictive task. We found several models that outperformed the SP500 benchmark. 
 
 
 ## Postmortem
