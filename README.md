@@ -57,7 +57,7 @@ The way we are updating our models is that we are always discarding most stale m
 
 ![Resources/rolling.PNG]
 
-![table](https://github.com/ekuo651/Project-2/blob/master/rolling.PNG "rolling")
+![table](https://github.com/ekuo651/Project-2/blob/master/rolling.PNG "ROLLING")
 
 We normalize the feature set by scaling all the feature values from 0 to 1 in order to have all the features contributing the same way to the model and not bias our selection on the features.  We constructed our prediction label as binary classification selecting top 30% of the stocks over that month and similarly flagging bottom 30% of underperformers. That way we dont use the stocks that are not moving much in terms of returns and therefore we are training our model with samples that trully provide valuabla information. 
 
