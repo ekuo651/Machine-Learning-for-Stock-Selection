@@ -56,6 +56,10 @@ The way we are updating our models is that we are always discarting most stale m
 
 ![Presentation_Resources/rolling_train_test.jpg]
 
+We normalize the feature set by scaling all the feature values from 0 to 1 in order to have all the features contributing the same way to the model and not bias our selection on the features.  We constructed our prediction label as binary classification selecting top 30% of the stocks over that month and similarly flagging bottom 30% of underperformers. That way we dont use the stocks that are not moving much in terms of returns and therefore we are training our model with samples that trully provide valuabla information. 
+
+After running our predictions we build an equity curve showing top 20 holdings by the model. and contrast the performance with the SP500. 
+
 #Discuss any problems that arose with preparing the data or training the model that you didn't anticipate.
 #Discuss the overall training process and highlight anything of interest with the training process: Cloud resources used, training time #required, issues with training.
 
