@@ -50,7 +50,11 @@ We obtained financial data on fundamental indicators for all the stocks currentl
 ## Methods & Technology
 
 #Describe the exploration and cleanup process.
-We used data from Bloomberg and capital IQ. 
+We had 19 features among fundamental and technicals factors. Each of which we sample every month end in order to build our feature set. We use a rolling approach in order to train and test our hypothesis. We use a lookback period of 12 month as a training set in order to predict the next forward return. Given that we had prior knowledge on the amount of noise financial data has we decided to run our models simply by using a classification approach. That way our main goal is to find stocks on a recurent basis that can outperform the SP500. 
+
+The way we are updating our models is that we are always discarting most stale month and incorporating most recent month on the training set. In orther words we are using the past 12 months of data to train and we test our models in on the new month. Please find below ilustrative schema ilustrating how we are rolling our models over time to capture most recent information incorporated to the markets. 
+
+![Presentation_Resources/rolling_train_test.jpg]
 
 #Discuss any problems that arose with preparing the data or training the model that you didn't anticipate.
 #Discuss the overall training process and highlight anything of interest with the training process: Cloud resources used, training time #required, issues with training.
