@@ -34,7 +34,7 @@ For each month of predictions, we evaluated 12 months of prior data.  The techni
 
 Since the premise of finding outperformers relies on the relative performance of other stocks, we decided to cluster the constituents of the S&P500 based on a snapshot of fundamental indicators and then to apply our stock selection model. We did not want to go based off of traditional sectors, but instead to find clusters based on each constituents fundamental data. Therefore, we used K-means clustering, an unsupervised learning model.
 
-We selected the optimal number of clusters to run based on the elbow curve technique where we find the point at which the reduction in loss plateaus. We also used silhouette analysis to determine how well differentiated each cluster would have been based on the number of clusters. 
+We selected the optimal number of clusters to run based on the elbow curve technique where we find the point at which the reduction in inertia plateaus. We also used silhouette analysis to determine how well differentiated each cluster would have been based on the number of clusters. 
 
 ### Predicting the Market
 
@@ -52,7 +52,7 @@ We obtained financial data on fundamental indicators for all the stocks currentl
 #Describe the exploration and cleanup process.
 We had 19 features among fundamental and technicals factors. Each of which we sample every month end in order to build our feature set. We use a rolling approach in order to train and test our hypothesis. We use a lookback period of 12 month as a training set in order to predict the next forward return. Given that we had prior knowledge on the amount of noise financial data has we decided to run our models simply by using a classification approach. That way our main goal is to find stocks on a recurent basis that can outperform the SP500. 
 
-The way we are updating our models is that we are always discarting most stale month and incorporating most recent month on the training set. In orther words we are using the past 12 months of data to train and we test our models in on the new month. Please find below ilustrative schema ilustrating how we are rolling our models over time to capture most recent information incorporated to the markets. 
+The way we are updating our models is that we are always discarding most stale month and incorporating most recent month on the training set. In orther words we are using the past 12 months of data to train and we test our models in on the new month. Please find below ilustrative schema ilustrating how we are rolling our models over time to capture most recent information incorporated to the markets. 
 
 ![Presentation_Resources/rolling_train_test.jpg]
 
