@@ -45,7 +45,7 @@ Without incorporating hedging strategies and derivatives, selecting outperformer
 We obtained financial data on fundamental indicators for all the stocks currently in the S&P 500 using the Bloomberg Terminal and Capital IQ. We calculated technical indicators based on the daily closing prices of the S&P 500 and resampled the data on a monthly interval. 
 
 ![Presentation_Resources/bloomberg_logo.jpg]
-![Presentation_Resources/capiq_logo.jpg]
+![Presentation_Resources/capiq_logo.PNG]
 
 
 ## Methods & Technology
