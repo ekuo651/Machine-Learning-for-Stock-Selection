@@ -1,9 +1,7 @@
 # Project-2
 
-#Title Slide
 Machine learning model for stock selection 
 
-#Include the name of the project and group members.
 **Andrea Ovelar, Christian Stracke, Emmy Kuo & Weiqing Wang**
 
 ## Contents
@@ -16,9 +14,9 @@ Machine learning model for stock selection
 ## Motivation & Summary
 
 
-We are looking to use machine learning model to create a stock portfolio that would outperform the S&P500 benchmark. our hypothesis is that by combining fundamental and technical indicators we could have a portfolio of stocks that outperforms consistently the S&P 500 and rebalances on a monthly basis. This strategy can be easily replicated on different countries. 
+We are looking to use machine learning model to create a stock portfolio that would outperform the S&P500 benchmark. Our hypothesis is that by combining fundamental and technical indicators we could have a portfolio of stocks that outperforms consistently the S&P 500 and rebalances on a monthly basis. This strategy can be easily replicated on different countries. 
 
-Additionally, we applied clustering techniques to the stocks currently in the S&P 500, and then ran our machine learning model on the clusters to further optimize returns. We also explored used recurrent neural networks to predict the trend of individual stocks and the S&P500.
+Additionally, we applied clustering techniques to the stocks currently in the S&P 500, and then ran our machine learning model on the clusters to further optimize returns. We also explored using recurrent neural networks to predict the trend of individual stocks and the S&P500.
 
 
 
@@ -52,6 +50,8 @@ We obtained financial data on fundamental indicators for all the stocks currentl
 ## Methods & Technology
 
 #Describe the exploration and cleanup process.
+We used data from Bloomberg and capital IQ. 
+
 #Discuss any problems that arose with preparing the data or training the model that you didn't anticipate.
 #Discuss the overall training process and highlight anything of interest with the training process: Cloud resources used, training time #required, issues with training.
 
