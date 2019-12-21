@@ -44,8 +44,8 @@ Without incorporating hedging strategies and derivatives, selecting outperformer
 
 We obtained financial data on fundamental indicators for all the stocks currently in the S&P 500 using the Bloomberg Terminal and Capital IQ. We calculated technical indicators based on the daily closing prices of the S&P 500 and resampled the data on a monthly interval. 
 
-![Presentation_Resources/bloomberg_logo.jpg]
-![Presentation_Resources/capiq_logo.PNG]
+![Resources/bloomberg_logo.PNG]
+![Resources/capiq_logo.PNG]
 
 
 ## Methods & Technology
@@ -55,7 +55,7 @@ We had 19 features among fundamental and technicals factors. Each of which we sa
 
 The way we are updating our models is that we are always discarding most stale month and incorporating most recent month on the training set. In orther words we are using the past 12 months of data to train and we test our models in on the new month. Please find below ilustrative schema ilustrating how we are rolling our models over time to capture most recent information incorporated to the markets. 
 
-![Presentation_Resources/rolling_train_test.jpg]
+![Resources/rolling.PNG]
 
 We normalize the feature set by scaling all the feature values from 0 to 1 in order to have all the features contributing the same way to the model and not bias our selection on the features.  We constructed our prediction label as binary classification selecting top 30% of the stocks over that month and similarly flagging bottom 30% of underperformers. That way we dont use the stocks that are not moving much in terms of returns and therefore we are training our model with samples that trully provide valuabla information. 
 
